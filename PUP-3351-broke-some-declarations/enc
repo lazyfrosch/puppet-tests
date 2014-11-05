@@ -3,5 +3,6 @@ cat <<ENC
 ---
 classes:
   one:
+    message: 'test'
   three:
 ENC
